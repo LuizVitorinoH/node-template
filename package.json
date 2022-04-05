@@ -7,7 +7,7 @@
     "build": "pug templates/*.pug --pretty --out ./build"
   },
   "keywords": [],
-  "author": "Henrique Schreiner",
+  "author": "Luiz Henrique Vitorino",
   "license": "MIT",
   "dependencies": {
     "pug-cli": "^1.0.0-alpha6"
